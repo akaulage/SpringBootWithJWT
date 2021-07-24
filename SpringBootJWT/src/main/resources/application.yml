@@ -1,0 +1,6 @@
+server:
+  port: 8093
+
+# adding secret key and acces using @Value("${jwt.secretKey}")
+jwt:
+  secretKey: akaulage1992
